@@ -2,6 +2,12 @@
 name = "handwriting-scan-tool"
 version = "0.1.0"
 edition = "2021"
+description = "Scan a page of handwriting and extract the letters as individual images. I use this tool when creating fonts based on handwriting."
+license = "MIT"
+repository = "https://github.com/Velfi/handwriting-scan-tool"
+readme = "README.md"
+keywords = ["handwriting", "scan", "font", "image", "processing"]
+authors = ["Zelda Hessler <zelda.hessler@pm.me>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
